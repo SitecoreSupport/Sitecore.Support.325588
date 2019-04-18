@@ -1,7 +1,4 @@
-﻿// Sitecore.Data.LanguageFallback.LanguageFallbackFieldValuesProvider
-using Sitecore;
-using Sitecore.Caching;
-using Sitecore.Common;
+﻿using Sitecore.Caching;
 using Sitecore.Configuration;
 using Sitecore.Data.Fields;
 using Sitecore.Data.Items;
